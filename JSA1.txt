@@ -1,0 +1,43 @@
+Data Types in JavaScript:
+1. Primitive Data Types:
+   - `Number`: Floating point numbers for both integers and decimals.
+   - `String`: Textual data.
+   - `Boolean`: Logical data - true or false.
+   - `Undefined`: Indicates a variable that hasn't been assigned a value.
+   - `Null`: Represents the intentional absence of any object value.
+
+2. Non-primitive Data Types (Reference Types):
+   - `Object`: A collection of key-value pairs.
+   - `Array`: Ordered collection of values.
+   - `Function`: A reusable set of statement that we can easily call whenever needed.
+
+
+
+JavaScript Engines:
+JavaScript engines are programs that execute JavaScript code. Some popular engines include:
+- V8 (Chrome, Node.js)
+- SpiderMonkey (Firefox)
+- Chakra (Microsoft Edge)
+- JavaScriptCore (Safari)
+
+
+
+ ECMA in JavaScript:
+ECMA (European Computer Manufacturers Association) is an organization that standardizes scripting languages. In JavaScript, ECMAScript (ES) is the standard specification that defines the scripting language's features and behavior. JavaScript implements ECMAScript standards to ensure consistency across different implementations.
+
+
+
+Why We Use JavaScript:
+JavaScript is primarily used for:
+- Enhancing Web Pages: Adding interactivity, animations, and dynamic content.
+- Web Development: Building web applications, both front-end and back-end.
+- Server-Side Development: Node.js allows JavaScript to be used for server-side scripting.
+
+ JavaScript's History:
+- Birth: Developed by Brendan Eich at Netscape in 1995.
+- Early Years: Originally named LiveScript, later renamed JavaScript.
+- Standardization: ECMAScript was created to standardize JavaScript in 1997.
+- Evolution: Continuous updates and enhancements to the language (ES6, ES7, etc.) improving functionalities.
+
+DOM in JavaScript:
+DOM stands for Document Object Model. It's a programming interface for web documents. In JavaScript, the DOM represents the document as a tree of objects. It allows programs to dynamically access and manipulate the content, structure, and style of a web page. It enables interaction and modification of HTML and XML documents.
